@@ -28,24 +28,7 @@ I enjoy bridging **research → production AI systems**.
 ## 🔬 Research Experience
 
 ### 🧪 Graduate Research Assistant — USC Viterbi (CPS-Vida Lab)
-
-- Built robotic simulation pipeline using VLA models (RT-1, Octo)
-- Implemented Monte Carlo Dropout-based uncertainty estimation
-- Improved robotic task success from **27% → 36% across 200 episodes**
-- Focus: Reliable embodied AI systems
-
----
-
 ### 📄 ACL 2024 — Perspective-aware Healthcare Summarization
-
-- Built healthcare LLM summarization system (Flan-T5 + prefix tuning)
-- Improved:
-  - **+8.65% ROUGE**
-  - **+12% METEOR**
-  - **+6.58% BLEU**
-- Reduced hallucinations using multi-step refinement
-- Improved BARTScore by **13%**
-
 🔗 Paper: [Link]  
 🔗 Code: [Link]
 
@@ -53,28 +36,10 @@ I enjoy bridging **research → production AI systems**.
 
 ## 🚀 Selected Projects
 
-### 🧩 Agentic LLM Twin with Advanced RAG
-- Multi-step query decomposition
-- Hybrid search + metadata filtering + re-ranking
-- ZenML pipelines for ingestion
-- Deployed fine-tuned LLM on AWS SageMaker
-- FastAPI microservice for real-time inference
-
----
-
-### 📊 AI Agent Monitoring & Observability Platform
-- End-to-end tracing of AI workflows
-- Backend + frontend SDK instrumentation
-- Django + Celery async pipelines
-- ClickHouse for high-volume analytics
-
----
-
-### ⚙️ IMDB Sentiment MLOps Pipeline
-- 89% accuracy (+12% over baseline)
-- Dockerized ML system
-- AWS (S3, EKS), Kubernetes
-- Real-time monitoring via Prometheus + Grafana
+### Agentic LLM Twin with Advanced RAG - 🔗 [View Repository](https://github.com/GauriNaik826/Agentic_LLM_Twin_RAG)
+### IMDB Sentiment MLOps Pipeline - 🔗 [View Repository](https://github.com/GauriNaik826/MLops_end_to_end)
+### Book Reccomender system - 🔗 [View Repository](https://github.com/GauriNaik826/Book-Recommender-System)
+### n8n_Daily_Weather_Email_Automation - 🔗 [View Repository](https://github.com/GauriNaik826/n8n_Daily_Weather_Automation)
 
 ---
 
@@ -91,10 +56,8 @@ I enjoy bridging **research → production AI systems**.
 
 ## 📫 Connect With Me
 
-LinkedIn: [Your Link]  
+LinkedIn: https://www.linkedin.com/in/gauri-naik-bb83a21a5/
 Email: gmnaik@usc.edu  
-Google Scholar: [If available]
+Google Scholar: https://scholar.google.com/citations?hl=en&user=q2E_fm0AAAAJ
 
----
 
-⚡ Fun fact: I enjoy building AI systems that are not just accurate — but reliable, interpretable, and production-ready.
