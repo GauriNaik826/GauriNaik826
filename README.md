@@ -37,6 +37,7 @@ I enjoy bridging **research → production AI systems**.
 ## 🚀 Selected Projects
 
 ### Agentic LLM Twin with Advanced RAG - 🔗 [View Repository](https://github.com/GauriNaik826/Agentic_LLM_Twin_RAG)
+### OTAS- Agentic Observability Platform - 🔗 [View Repository](https://github.com/Anirudh-RV/otas/tree/main)
 ### IMDB Sentiment MLOps Pipeline - 🔗 [View Repository](https://github.com/GauriNaik826/MLops_end_to_end)
 ### Book Reccomender system - 🔗 [View Repository](https://github.com/GauriNaik826/Book-Recommender-System)
 ### n8n_Daily_Weather_Email_Automation - 🔗 [View Repository](https://github.com/GauriNaik826/n8n_Daily_Weather_Automation)
