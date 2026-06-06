@@ -35,7 +35,7 @@ I enjoy bridging **research → production AI systems**.
 ---
 
 ## 🚀 Selected Projects
-
+### Eye Disease Prediction using Ensemble Learning and Attention on OCT Scans - 🔗 [View Repository](https://github.com/GauriNaik826/Eye-Disease-Prediction-using-Ensemble-Learning-and-Attention-on-OCT-Scans-Thesis-Project-)
 ### Agentic LLM Twin with Advanced RAG - 🔗 [View Repository](https://github.com/GauriNaik826/Agentic_LLM_Twin_RAG)
 ### OTAS- Agent Observability Platform - 🔗 [View Repository](https://github.com/Anirudh-RV/otas/tree/main)
 ### IMDB Sentiment MLOps Pipeline - 🔗 [View Repository](https://github.com/GauriNaik826/MLops_end_to_end)
